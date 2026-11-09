@@ -1,4 +1,4 @@
-# Egypt Real Estate Listings | End-to-End Data Analytics
+# Egypt Dubizzle Apartments Listings | End-to-End Data Analytics
 
 **An independently collected and analyzed dataset of apartment and duplex sale listings in Egypt, explored through Python and Power BI.**
 
